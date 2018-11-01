@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Oct 31 20:11:27 PDT 2018
+1.base=C\:\\Users\\Friday\\AndroidStudioProjects\\tfmobile\\gradleBuild\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=graph.pb
+0.set=ASSET
+0.base=C\:\\Users\\Friday\\AndroidStudioProjects\\tfmobile\\gradleBuild\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+1.path=labels.txt
